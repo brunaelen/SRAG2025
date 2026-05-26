@@ -89,4 +89,4 @@ As análises incluem:
 Bruna Elen Araujo Nascimento
 
 - [GitHub](https://github.com/brunaelen)
-- [LinkedIn](www.linkedin.com/in/bruna-nascimento-dt-science)
+- [LinkedIn](https://www.linkedin.com/in/bruna-nascimento-dt-science/)
