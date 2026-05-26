@@ -38,7 +38,7 @@ SRAG2025/
 │   └── dicionario-de-dados-2019-a-2025.pdf
 ├── Notebooks/
 │   ├── limpeza_dados.ipynb
-│
+|   └── geral.ipynb
 ├── Graficos/
 │   └── Geral
 │   └── Indigenas
